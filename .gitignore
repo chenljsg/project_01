@@ -1,0 +1,5 @@
+#忽略user.js文件
+user.js
+
+#忽略所有test目录下的所有文件
+test/
